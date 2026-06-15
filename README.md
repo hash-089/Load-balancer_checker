@@ -223,6 +223,3 @@ MIT License - Free for educational and authorized testing use.
 Disclaimer
 Use only on systems you own or have permission to test. Unauthorized scanning may violate laws.
 
-text
-
-**Just copy and paste this entire message into your README.md file. Done!
