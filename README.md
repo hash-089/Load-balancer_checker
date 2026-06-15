@@ -5,8 +5,11 @@
 ```bash
 git clone https://github.com/hash-089/load-balancer-analyzer.git
 cd load-balancer-analyzer
-pip install -r requirements.txt
-chmod +x lb_analyzer.py
+ 1.Make it executable
+chmod +x install.sh
+ 2. Run it
+./install.sh
+4.chmod +x lb_analyzer.py
 Command Reference
 Basic Command Structure
 bash
